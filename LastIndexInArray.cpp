@@ -1,3 +1,5 @@
+// Example : arr -> 1 4 3 2 5 4 7 4 5 4   last index of 5 is 8      
+
 #include<iostream>
 using namespace std;
 

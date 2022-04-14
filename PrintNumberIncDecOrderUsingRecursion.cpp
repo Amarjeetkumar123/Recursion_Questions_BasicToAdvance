@@ -1,4 +1,5 @@
 // Recursion
+// Example : 5 -> 1 2 3 4 5 (increasing order)      &   5 -> 5 4 3 2 1 (decreasing order)
 
 #include<iostream>
 using namespace std;
