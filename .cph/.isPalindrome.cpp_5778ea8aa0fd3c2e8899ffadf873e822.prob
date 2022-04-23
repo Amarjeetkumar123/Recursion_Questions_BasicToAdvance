@@ -1,0 +1,1 @@
+{"name":"Local: isPalindrome","url":"d:\\RecursionClass\\isPalindrome.cpp","tests":[{"id":1650707823979,"input":"6\n1 2 3 3 2 1","output":""},{"id":1650707843146,"input":"6\n1 2 3 2 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\RecursionClass\\isPalindrome.cpp","group":"local","local":true}
